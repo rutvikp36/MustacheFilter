@@ -4,7 +4,7 @@ An Augmented reality Face filter android app made with Unity and ARCore
 ## Getting Started
 - Clone this repo:
     ```sh
-    $ git clone https://github.com/R0llingStar/MustacheFilter.git
+    $ git clone https://github.com/rutvikp36/MustacheFilter.git
     ```
  - Open the project in [Unity.](https://unity.com/)
  - Change Build Settings to Android and give proper Android SDK path
