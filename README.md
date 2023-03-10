@@ -1,5 +1,6 @@
 # Mustache Filter AR
 An Augmented reality Face filter android app made with Unity and ARCore
+Created in 3 days under GameDevClub challenge
 
 ## Getting Started
 - Clone this repo:
